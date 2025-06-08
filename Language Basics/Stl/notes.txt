@@ -1,0 +1,78 @@
+Containers
+Algorithms
+Functions
+Iterators
+
+
+
+1.Pair(utility library) //done
+2.vectors //done
+     - intialisation // done
+     - push_back //done
+     - front // done
+     - back // done
+     - iterator  // done
+     - for each // done
+     - erase // done
+     - insert // done
+     - size // done
+     - access element // done
+     - swap //done
+     - clear // done
+3.list //done
+     - push_front / emplace_front //done
+     - front //done
+4.deque //done
+5.stack(lifo) // done 
+     - push/emplace - done
+     - top - done 
+     - pop - done
+     - size - done 
+     - swap - done
+     - empty - done 
+6.Queue(fifo) // done
+     - push/emplace - done
+     - front - done
+     - pop - done
+     - size - done
+     - swap - done
+     - empty - done
+7.Priority Queue(Internally heap) // done
+     - top - done
+     - pop - done
+     - push/emplace - done
+     - empty - done
+     - size - done
+8.Set Container // done
+     - insert/emplace - done
+     - find() - done
+     - erase (iterator, element, (it1, it2)) - done
+     - count - done
+     - lower_bound - done
+     - upper_bound - done
+9.multiset //done
+     - insert - done
+     - erase  - done
+10.unordered_set (lower_bound and upper_bound does not works) // done
+11.map // done
+     - insert/emplace/app[key] = value - done
+     - find - done
+     - empty - done
+     - size - done
+     - lower_bound >=
+     - upper_bound >
+     - unordered_map - done
+12.multimap // done
+     - equal_range - done
+13.Functions and Algorithms // done
+     - sort - done
+     - accumulate -  done
+     - count - done
+     - find - done
+     - comparator - done
+     - next_permutation - done
+     - prev_permutation - done
+     - max_element - done
+     - min_element - done
+     - reverse - done
+     - pow - done
